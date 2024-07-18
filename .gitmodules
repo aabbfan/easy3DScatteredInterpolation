@@ -1,0 +1,3 @@
+[submodule "libnabo"]
+	path = libnabo
+	url = https://github.com/aabbfan/libnabo.git
